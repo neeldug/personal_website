@@ -10,9 +10,10 @@ const App = () => (
       <h1>Welcome to my website</h1>
       </div>
       <div class="one-half column">
-      <nav class="u-full-width">
-        <SocialIcon url="http://twitter.com/neeldugar" />
-        <SocialIcon url="http://github.com/neeldug" />
+      <nav class="u-full-width shift-right">
+        <SocialIcon url="https://twitter.com/neeldugar" />
+        <SocialIcon url="https://github.com/neeldug" />
+        <SocialIcon url="https://www.linkedin.com/in/neel-dugar-711807196" />
       </nav>
       </div>
     </div>

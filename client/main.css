@@ -10,3 +10,12 @@ h1 {
   color: #E95420;
   display: inline-flex;
 }
+SocialIcon {
+  padding: 10px;
+}
+
+.shift-right {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}

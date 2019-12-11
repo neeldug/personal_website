@@ -10,12 +10,25 @@ h1 {
   color: #E95420;
   display: inline-flex;
 }
-SocialIcon {
-  padding: 10px;
-}
 
 .shift-right {
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.portfolio-item {
+  width: 20rem;
+  height: 25rem;
+  background-color: tomato;
+  margin: 1rem;
+
 }

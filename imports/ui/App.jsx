@@ -14,6 +14,7 @@ const App = () => (
           <SocialIcon url="https://twitter.com/neeldugar" />
           <SocialIcon url="https://github.com/neeldug" />
           <SocialIcon url="https://www.linkedin.com/in/neel-dugar-711807196" />
+          <SocialIcon url="https://open.spotify.com/user/o3u0vaf3h4e3zgtccse96pevg?si=PawGP8oCRce0dIq9BP6AWg" />
         </nav>
       </div>
     </div>
